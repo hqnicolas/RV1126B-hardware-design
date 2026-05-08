@@ -1,0 +1,1 @@
+cmd_drivers/leds/aw20xxx/built-in.a :=  rm -f drivers/leds/aw20xxx/built-in.a; /home/liping/build_05/rv1126/rv1126-repo-v20230717-dev/prebuilts/gcc/linux-x86/arm/gcc-arm-8.3-2019.03-x86_64-arm-linux-gnueabihf/bin/arm-rockchip830-linux-gnueabihf-ar rcSTPD drivers/leds/aw20xxx/built-in.a drivers/leds/aw20xxx/aw20xxx.o
